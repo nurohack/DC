@@ -12,7 +12,7 @@ let qurban;
 
 
 let reqem = Math.floor(Math.random() * 5) + 1;
-let reqem2 = Math.floor(Math.random() * 5) + 1;
+let reqem2 = Math.floor(Math.random() * 2) + 1;
 let reqem3 = Math.floor(Math.random() * 5) + 1;
 
 if (reqem == 1) {
